@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_200dp">200dp</dimen>
+    <dimen name="width_250dp">250dp</dimen>
+    <dimen name="height_200dp">200dp</dimen>
+    <dimen name="padding_3dp">3dp</dimen>
+    <dimen name="height_150dp">150dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+</resources>

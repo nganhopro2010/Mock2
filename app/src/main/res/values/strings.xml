@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="you_have_not_enough_grant_permission">Bạn chưa cấp đủ quyền cho ứng dụng</string>
+
+</resources>
